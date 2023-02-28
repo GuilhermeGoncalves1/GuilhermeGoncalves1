@@ -6,8 +6,8 @@
     <a href = "mailto:guih.goncalves16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>  
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGoncalves1&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGoncalves1&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGoncalves1&show_icons=true&theme=White&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGoncalves1&layout=compact&langs_count=7&theme=White"/>
 </div>
 
 ## Tecnologias que conheço e utilizo no dia a dia
