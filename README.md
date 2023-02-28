@@ -1,4 +1,10 @@
 ## Olá! Eu sou o, Guilherme da Silva Gonçalves 👋
+<div>
+  <a href="https://github.com/GuilhermeGoncalves1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGoncalves1&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Guih-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Guih-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
